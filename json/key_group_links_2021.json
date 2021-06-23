@@ -1,0 +1,1065 @@
+{
+    "nodes": [
+        {
+            "id": "2D Object Recognition -> Attention models for object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Bottom-up methods for 2D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Boundary and occlusion detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Evaluation of 2D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Face detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Few-shot 2D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Large-scale object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Multi-view 2D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Multimodal 2D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> OCR / text recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Object attributes",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Pedestrian detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Real-time 2D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Scene text detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Top-down methods for 2D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Unsupervised 2D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "2D Object Recognition -> Weakly supervised 2D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> 3D feature learnin",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> 3D from a single image",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> 3D from other sensors",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> 3D mesh data",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> 3D point clouds",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> 3D representations",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> 3D shape matching",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> 3D shape recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Analysis of RGB-D data",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Bundle adjustment",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Camera pose estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Differentiable rendering",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Homography estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Image correspondence",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Learning-based SLAM",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Learning-based camera pose estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Local features and descriptors",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Morphable 3D models",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Multi-view geometry",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Neural networks for 3D data analysis",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Non-rigid structure-from-motion",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> RANSAC",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Shape-from-X",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Structure-from-Motion",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Visual odometry",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Computer Vision -> Weakly supervised depth estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Object Recognition -> 3D car detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Object Recognition -> LIDAR-based 3D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Object Recognition -> Monocular 3D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Object Recognition -> Multimodal 3D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Object Recognition -> Weakly supervised 3D object detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Action and Behavior Recognition -> 2D action detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Action and Behavior Recognition -> 2D action recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Action and Behavior Recognition -> 3D action recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Action and Behavior Recognition -> Action forecasting",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Action and Behavior Recognition -> Activity detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Action and Behavior Recognition -> Human interaction recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Action and Behavior Recognition -> Non-human action recognition/detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Action and Behavior Recognition -> Online/streaming action recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Adversarial Learning, Adversarial Attack and Defense Methods -> Adversarial Attack and Defense Metho",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Adversarial Learning, Adversarial Attack and Defense Methods -> Adversarial Learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Adversarial Learning, Adversarial Attack and Defense Methods -> Adversarial examples",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Adversarial Learning, Adversarial Attack and Defense Methods -> Backdoor attacks and defense methods",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> 2D face detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> 2D gaze estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> 2D human pose estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> 3D face modeling and fitting",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> 3D hand pose estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> 3D human body modeling",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> 3D human pose estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Crowd counting",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Emotion / facial expression recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Face editing",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Face generation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Face recognition / identification / authentication",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Facial action unit detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Gait recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Gender / ethnicity / age estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Human interaction recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Lip reading",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Non-human pose estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Other biometrics",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics, Face, Gesture, Body Pose -> Person re-identification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Computational cameras",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Event cameras",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> High-dynamic range imaging",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Hyperspectral data analysis",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Image compression",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Image deblurring",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Image denoising",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Image deraining and dehazing",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Image enhancement",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Image intrinsics",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Image restoration",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Lightfields",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Neuromorphic sensors",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Novel sensors",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Omnidirectional imaging",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Physics-based vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Superresolution",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Video compression",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Video enhancement",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Photography -> Video stabilization",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Datasets and Evaluation -> Data augmentation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Datasets and Evaluation -> Metrics",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Datasets and Evaluation -> Natural datasets",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Datasets and Evaluation -> Synthetic datasets",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Efficient Training and Inference Methods for Networks -> Compact models",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Efficient Training and Inference Methods for Networks -> Dynamic network architectures",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Efficient Training and Inference Methods for Networks -> Efficient training methods",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Efficient Training and Inference Methods for Networks -> Knowledge distillation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Efficient Training and Inference Methods for Networks -> Network compression",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Efficient Training and Inference Methods for Networks -> Network pruning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Efficient Training and Inference Methods for Networks -> Network quantization",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Explainable AI, Fairness, Accountability, Privacy, Transparency and Ethics in Vision -> Dataset bias",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Explainable AI, Fairness, Accountability, Privacy, Transparency and Ethics in Vision -> Deepfake det",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Explainable AI, Fairness, Accountability, Privacy, Transparency and Ethics in Vision -> Ethics in vi",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Explainable AI, Fairness, Accountability, Privacy, Transparency and Ethics in Vision -> Explainable ",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Explainable AI, Fairness, Accountability, Privacy, Transparency and Ethics in Vision -> Face antispo",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Explainable AI, Fairness, Accountability, Privacy, Transparency and Ethics in Vision -> Fairness, ac",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Explainable AI, Fairness, Accountability, Privacy, Transparency and Ethics in Vision -> Network visu",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Explainable AI, Fairness, Accountability, Privacy, Transparency and Ethics in Vision -> Privacy",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Explainable AI, Fairness, Accountability, Privacy, Transparency and Ethics in Vision -> Uncertainty ",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Evaluation of image classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Few-shot learning for image classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Fine-grained image classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Image set recognition / multiple instance learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Large scale image classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Large-scale image classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Learning from noisy data",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Low-power image classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Multi-label learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Novel architectures for supervised classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Novel losses for supervised image classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Open set recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Semi-supervised image classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Unbalanced data and long-tail distributions",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Unsupervised image classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Classification -> Zero-shot learning for image classification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Retrieval -> Cross-modal retrieval",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Retrieval -> Image matching",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Retrieval -> Similarity search",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Retrieval -> Video retrieval",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> 3D synthesis",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Auto-encoders",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Face generation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Generative Adversarial Networks",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Hybrid schemes",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Image editing",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Image inpainting",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Image stitching",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Image warping",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Image-to-image translation / style transfer",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Person generation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Scene generation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Texture synthesis",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Variational Auto-encoders",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Video prediction",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image and Video Synthesis -> Video synthesis",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Low-level and Physics-based Vision -> Color",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Low-level and Physics-based Vision -> Saliency detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Low-level and Physics-based Vision -> Shape-from-x",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Low-level and Physics-based Vision -> Texture",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Machine Learning, Architectures and Formulations -> Alternatives for standard convolution",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Machine Learning, Architectures and Formulations -> Attention models",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Machine Learning, Architectures and Formulations -> Bayesian neural networks",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Machine Learning, Architectures and Formulations -> Capsule networks",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Machine Learning, Architectures and Formulations -> Graph convolutional neural networks",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Machine Learning, Architectures and Formulations -> Neural architecture search",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Machine Learning, Architectures and Formulations -> Novel architectures",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Machine Learning, Architectures and Formulations -> Novel machine learning formulations",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Machine Learning, Architectures and Formulations -> Reinforcement learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Machine Learning, Architectures and Formulations -> Variants of batchnorm",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Medical, Biological and Cell Microscopy -> Biological imaging",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Medical, Biological and Cell Microscopy -> Brain imaging",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Medical, Biological and Cell Microscopy -> Cell microscopy",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Medical, Biological and Cell Microscopy -> Endoscopic imagin",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Medical, Biological and Cell Microscopy -> Image registration",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Medical, Biological and Cell Microscopy -> Other medical imaging",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Medical, Biological and Cell Microscopy -> Retinal images",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Motion and Tracking -> 2D tracking",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Motion and Tracking -> 3D tracking",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Motion and Tracking -> Learning-to-track",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Motion and Tracking -> Multi-target tracking",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Motion and Tracking -> Multi-view tracking",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Motion and Tracking -> Optical flow",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Motion and Tracking -> Re-identification",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Motion and Tracking -> Tracking-by-detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Optimization and Learning Methods -> Auto-ml",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Optimization and Learning Methods -> Data augmentation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Optimization and Learning Methods -> Factorization and low rank approximations",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Optimization and Learning Methods -> Regularization",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Optimization and Learning Methods -> Sparse coding",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Pose Estimation -> Category-level 6dof pose estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Pose Estimation -> Instance-level 6dof pose estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Pose Estimation -> Unsupervised pose estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Pose Estimation -> Weakly supervised pose estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Active learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Adversarial learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Contrastive learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Disentangled representations",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Domain adaptation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Generalization",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Geometric deep learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Incremental learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Metric learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Multi-task learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Multimodal learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Robustness to noisy labels",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Self-supervised representation learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Sparse representations",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Representation Learning, Deep Learning -> Uncertainty estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Dense prediction",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Depth estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Evaluation of segmentation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Indoor scene recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Instance segmentation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Inverse graphics",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Multi-task learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Scene graphs",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Scene layout estimation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Semantic segmentation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Visual reasoning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scene Analysis and Understanding -> Weakly supervised segmentation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Transfer, Low-shot, Semi- and Un- supervised learning -> Low-shot learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Transfer, Low-shot, Semi- and Un- supervised learning -> Semi-supervised learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Transfer, Low-shot, Semi- and Un- supervised learning -> Transfer learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Transfer, Low-shot, Semi- and Un- supervised learning -> Unsupervised learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Video analysis and Understanding -> 4D vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Video analysis and Understanding -> Ego-centric vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Video analysis and Understanding -> Evaluation of video analysis and understanding",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Video analysis and Understanding -> Event detection",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Video analysis and Understanding -> Motion segmentation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Video analysis and Understanding -> Scene flow",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Video analysis and Understanding -> Video prediction",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Video analysis and Understanding -> Video representations",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Video analysis and Understanding -> Video segmentation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Image caption generation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Learning with weak supervision from text",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Multimodal retrieval",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Sign language recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Video description",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Vision + audio",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Vision + other modalities",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Vision + speech",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Visual grounding / object referral",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Visual navigation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision + Language, Vision + other modalities -> Visual question answering",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Aerial images / remo",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Arts and design",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Augmented reality",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Autonomous vehicles ",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Buildings / urban sc",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Document analysis",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Drones / UAVs",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Fashion applications",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Human-computer inter",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Industrial applicati",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Multimedia",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Other applications",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Robot imitation lear",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Robot navigation - m",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Robot navigation - o",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Robot vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Sketches",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Sports",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Surveillance",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision Applications and Systems, Vision for Robotics and Autonomous Vehicles -> Vision for graphics",
+            "group": "primary_subject_area"
+        }
+    ],
+    "links": []
+}

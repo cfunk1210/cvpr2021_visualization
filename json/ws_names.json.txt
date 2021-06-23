@@ -1,0 +1,284 @@
+{
+    "nodes": [
+        {
+            "id": "Fair, Data-Efficient and Trusted Computer Vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Embodied AI",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Long Term Visual Localization, Visual Odometry and Geometric and Learning-Based SLAM",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Human Pose, Motion, Activities and Shape in 3D",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Perception Beyond the Visible Spectrum",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Learned Image Compression",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Diagram Image Retrieval and Analysis: Representation, Learning, and Similarity Metrics",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Deep Declarative Networks",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Learning From Imperfect Data",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "EarthVision: Large Scale Computer Vision for Remote Sensing Imagery",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "VizWiz Grand Challenge: Describing Images From Blind People",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Visual Question Answering and Dialog",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Vision for All Seasons: Adverse Weather and Lighting Conditions",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Continual Learning in Computer Vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Deep Learning for Geometric Computing",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Learning 3D Generative Models",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Activity Recognition Challenge",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computer Vision for Physiological Measurement",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Safe Artificial Intelligence for Automated Driving",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Dynamic Scene Reconstruction",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Women in Computer Vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Compositionality in Computer Vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Visual Understanding by Learning From Web Data",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Scalability in Autonomous Driving",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Minds vs. Machines: How Far Are We From the Common Sense of a Toddler?",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Sight and Sound",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Low-Power Computer Vision Challenge",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Challenges and Promises to Inferring Emotion From Images and Video",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "AI for Content Creation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "New Trends in Image Restoration and Enhancement",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Medical Computer Vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Frontiers of Monocular 3D Perception",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Text and Documents in the Deep Learning Era",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "AI City Challenge",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computer Vision for AR/VR",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "3D Scene Understanding for Vision, Graphics, and Robotics",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Omnidirectional Computer Vision in Research and Industry",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Media Forensics",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Efficient Deep Learning for Computer Vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Egocentric Perception, Interaction and Computing",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Skin Image Analysis",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "The End-of-End-to-End: A Video Understanding Pentathlon",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "RetailVision: Revolutionizing the World of Retail \u2013 New Computer Vision Challenges",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "DeepVision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Deep Learning Foundations of Geometric Shape Modeling and Reconstruction",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Adversarial Machine Learning in Computer Vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Biometrics",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computational Cameras and Displays",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Differential Geometry in Computer Vision and Machine Learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Bridging the Gap Between Computational Photography and Visual Recognition",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Learning From Unlabeled Videos",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computer Vision in Sports",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Visual Learning With Limited Labels: Zero-Shot, Few-Shot, Any-Shot, and Cross-Domain Few-Shot Learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Fine Grained Visual Categorization",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Multimodal Learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computer Vision for Microscopy Image Analysis",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Language & Vision With Applications to Video Understanding",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Neural Architecture Search and Beyond for Representation Learning",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Autonomous Driving",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Image Matching: Local Features and Beyond",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "DAVIS Challenge on Video Object Segmentation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Computer Vision for Fashion, Art and Design",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Extreme Classification in Computer Vision",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Learning From Instructional Videos",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Precognition: Seeing Through the Future",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "ScanNet Indoor Scene Understanding Challenge",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Benchmarking Multi-Target Tracking: Multi-Object Tracking and Segmentation",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Catch UAVs That Want to Watch You: Detection and Tracking of Unmanned Aerial Vehicle in the Wild",
+            "group": "primary_subject_area"
+        },
+        {
+            "id": "Towards Human-Centric Image/Video Synthesis and the Look-Into-Person Challenge",
+            "group": "primary_subject_area"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="generator" content="GitLab Pages">
+    <title>CVPR 2020 Visualizations</title>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <link rel="shortcut icon" type="image/png"
+href="https://blog.kitware.com/wp-content/uploads/2017/04/ExternalFavicon.png"/>
+    <link rel="stylesheet" href="css/typeahead.css">
+    <link rel="stylesheet" href="css/paper_vis.css">
+    <link rel="stylesheet"
+          href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+          crossorigin="anonymous">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.3/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
+    <script src="https://iclr.cc/virtual_2020/static/js/typeahead.bundle.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/tgdwyer/WebCola/WebCola/cola.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+<link href="https://fonts.googleapis.com/css?family=Lato:400,900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Exo" rel='stylesheet'>
+<link href="https://fonts.googleapis.com/css?family=Cuprum" rel='stylesheet'>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"
+        integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.28/moment-timezone-with-data.min.js"
+        integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+        crossorigin="anonymous"></script>
+</head>
+<body>
+
+
+
+
+<div class="container-lg" id="container" style="padding-top: 20px;">
+    <p>
+        This graph is for the <a href="http://cvpr2020.thecvf.com/">IEEE/CVF Conference on Computer Vision and
+        Pattern Recognition</a>.  The graph is a visualization on the workshop papers for the conference distributed based
+        on their similarity to each other.
+        The closer the papers are, the more similar the abstracts.  This graph can be used to search for papers
+        and to find papers that are similar to each other.  Once you find an interesting paper by searching,
+        you can hover your mouse over nearby papers to see them.  You can also click and drag a box over the
+        graph to see a keyword summary and list of the papers on the right. For more
+        information, please visit our <a href="https://blog.kitware.com/visualizations-for-cvpr-2020">blog post</a>.
+    </p>
+    <div class="row py-3">
+        <div class="col-12 col-sm-6 col-lg-4" >
+            <div class="input-group mb-3">
+                <input type="text" class="form-control typeahead_all"
+                       placeholder="Search">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary typeahead_all_clear"
+                            type="button">&times;
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-4 text-center"
+             style="margin-bottom: 10px;">
+            <div class="btn-group btn-group-toggle filter_option">
+                <label class="btn btn-outline-secondary" data-tippy-content="Search for papers titles">
+                    <input type="radio" name="options" value="titles"
+                           autocomplete="off"> title
+                </label>
+                <label class="btn btn-outline-secondary active"
+                       data-tippy-content="Search for papers from specific authors">
+                    <input type="radio" name="options" value="authors"
+                           autocomplete="off" checked> author
+                </label>
+                <label class="btn btn-outline-secondary"
+                       data-tippy-content="Search for papers with specific subject area">
+                    <input type="radio" name="options" value="primary_subject_area"
+                           autocomplete="off"> workshop
+                </label>
+                <!-- <label class="btn btn-outline-secondary" data-tippy-content="Search for papers closest related to authors or other papers"> -->
+                <!--     <input type="radio" name="options" value="recs" -->
+                <!--            autocomplete="off"> similar -->
+                <!-- </label> -->
+
+            </div>
+        </div>
+
+        <div class="card" style="margin-right: -40px">
+            <div class="card-header">
+                <div id='outer_svg'
+                     style="display: inline-block; vertical-align: top;">
+                    <svg class="plot"
+                         style="display: block; "></svg>
+                </div>
+                <div class="results"
+                     style="display: inline-block; vertical-align: top; text-align: left;">
+                    <div style="display: block; overflow-y: auto;"
+                         id="table_info">
+                        <div id="explain_text_plot">
+                            <p>Each dot represents a paper with the color representing the workshop. The papers are arranged by a measure of similarity.
+                            </p>
+                            <p>If you <b>hover</b> over a dot, you see the
+                                related
+                                paper.
+                            </p>
+                            <p>If you <b>click</b> on a dot, you go to the
+                                related workshop page.
+                            </p>
+                            <p>You can <b>search</b> for papers by author,
+                                workshop or title
+                            </p>
+                            <p><b>Drag a rectangle </b> to summarize an area
+                                of the plot.
+                            </p>
+                        </div>
+                        <div id="summary_selection" style="">
+                        </div>
+                        <div style="overflow-y: auto; bottom: 0;margin-top:5pt;">
+                            <div id="sel_papers">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+              <svg id="legend" width="930" height="556">
+                <g>
+                </g>
+              </svg>
+            </div>
+        </div>
+
+        <div>
+            Graphs created by <a href="https://www.kitware.com/christopher.funk/" target="_blank">Dr. Christopher Funk</a> (Kitware)
+            and <a href="https://www.kitware.com/roni.choudhury/" target="_blank">Dr. Roni Choudhury</a> (Kitware).
+            Special thanks to <a href="http://hendrik.strobelt.com/" target="_blank">Dr. Hendrik Strobelt</a> IBM for the orininal similarity graph
+            created for <a href="https://github.com/Mini-Conf/Mini-Conf" target="_blank">Mini-Conf</a>,
+            <a href="http://rush-nlp.com/" target="_blank">Professor Sasha Rush</a> (Cornell) for advice on the embeddings,
+            and  <a href="https://www.kitware.com/anthony.hoogs/" target="_blank">Dr. Anthony Hoogs</a> (Kitware) and
+            <a href="https://www.kitware.com/jeffrey.baumes/" target="_blank">Dr. Jeffrey Baumes</a> (Kitware) for support and advice.
+            If you want to know more about the graphs, please visit our <a href="https://blog.kitware.com/visualizations-for-cvpr-2020">blog post</a>.
+        </div>
+
+    </div>
+</div>
+<script src="js/typeahead_tools.js"></script>
+<script src="js/paper_vis_ws.js"></script>
+<script src="js/legend_ws.js"></script>
+<script>
+      jQuery(document).ready(function () {
+          start();
+          tippy('[data-tippy-content]', {trigger: 'mouseenter focus'});
+      })
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6042509-32', 'auto', {'siteSpeedSampleRate': 10, 'alwaysSendReferrer': true});
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
+
